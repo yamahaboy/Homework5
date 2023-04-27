@@ -18,7 +18,7 @@
     display: flex;
     margin-top: 110px;
     margin-bottom: 110px;
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
@@ -40,7 +40,7 @@
     color:#86878B;
     justify-content: center;
     text-align: center;
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -74,7 +74,7 @@
 
 #table-header-text{
     color: #fff;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -93,7 +93,7 @@
 
 #table-header-price{
     color: #fff;
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -105,7 +105,7 @@
     background: #333333;
     border: 1px solid #86878B;
     color: rgba(255, 255, 255, 0.5);
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -116,7 +116,7 @@
     background: #fff;
     color: #86878B;
     border-bottom: 1px solid #e2e2e6;
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;

@@ -43,7 +43,7 @@
     max-width: 570px;
     max-height: auto;
     margin-top: 50px;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans',sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
@@ -62,7 +62,7 @@
   }
 
   .text-block p{
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -82,7 +82,7 @@
   .BtnDownload{
     background: #EC7979;
     color:#FFFFFF;
-    font-family: 'Open Sans';
+    font-family: 'Open Sans',sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;

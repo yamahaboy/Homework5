@@ -29,7 +29,7 @@
     color: #fff; 
 }
 
-.lower-background-img-header:after {
+.lower-background-img-header::after {
     content: "";
     position: absolute;
     bottom: -70px;

@@ -9,7 +9,7 @@
     height: auto;
 }
 
-.main-tab-block:after {
+.main-tab-block::after {
     content: "";
     display: block;
     border-bottom: 1px solid #C6CBCD;

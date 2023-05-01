@@ -18,7 +18,7 @@
 .second-page-header-main {
     position: relative;
   }
-  .second-page-header-main:after {
+  .second-page-header-main::after {
     content: "";
     position: absolute;
     bottom: -70px;

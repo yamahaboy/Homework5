@@ -25,7 +25,7 @@
     line-height: 42px;
 }
 
-.pricing-options-header:after {
+.pricing-options-header::after {
     content: "";
     position: absolute;
     bottom: -70px;
